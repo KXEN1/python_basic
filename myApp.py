@@ -1,4 +1,4 @@
-import streamlit as st
+import stremlit as st
 st.write("""
 # My First Streamlit App
 
